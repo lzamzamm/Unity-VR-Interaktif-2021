@@ -17,6 +17,7 @@ public class FireBulletOnActivate : MonoBehaviour
     }
 
     // Update is called once per frame
+    //tess
     void Update()
     {
         
